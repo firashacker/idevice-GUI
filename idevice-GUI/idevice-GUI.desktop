@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=idevice-GUI
+Comment=
+Exec=\sidevice
+Icon=/usr/share/idevice/idevice.png
+Path=
+Terminal=false
+StartupNotify=false
